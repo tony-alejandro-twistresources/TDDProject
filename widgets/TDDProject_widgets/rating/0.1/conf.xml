@@ -1,0 +1,23 @@
+<widget>
+  <toolboxCategory></toolboxCategory>
+  <widgetClass>com.tooltwist.tddproject.widget.RatingWidget</widgetClass>
+  <viewHelper>com.tooltwist.tddproject.viewhelper.RatingViewHelper</viewHelper>
+  <label>Rating</label>
+  <description>Displays Rating details.</description>
+   <editableSnippet>
+		<name>cssHeader.css</name>
+		<theme>project</theme>
+	</editableSnippet>
+	<editableSnippet>
+		<name>input.json</name>
+		<theme>project</theme>
+	</editableSnippet>
+   <editableSnippet>
+		<name>jsHeader.js</name>
+		<theme>project</theme>
+	</editableSnippet>
+	<editableSnippet>
+		<name>template.mustache</name>
+		<theme>project</theme>
+	</editableSnippet>
+</widget>

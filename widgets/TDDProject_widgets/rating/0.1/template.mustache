@@ -1,0 +1,14 @@
+{{#scopes}}
+<div class="container">
+	<h3>Events</h3>
+	{{#events}}
+	<div class="row"><strong>Event: </strong><span>{{event}}</span></div>
+	<div class="row"><strong>Average Rating: </strong><span>{{averageRating}}</span></div>
+	<h4>Reviews: </h4>
+		{{#comments}}
+		<div class="row"><strong>Rating: </strong><span>{{rating}}</span></div>
+		<div class="row"><strong>Comment: </strong><span>{{comment}}</span></div>
+		{{/comments}}
+	{{/events}}
+</div>
+{{/scopes}}

@@ -1,0 +1,6 @@
+ retrieve events from ratingmanager
+ must return a list of events
+ must return an event that was received
+	verify that event name is returned correctly
+	verify that comments are returned correctly
+	verify that average is computed correctly

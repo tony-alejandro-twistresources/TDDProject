@@ -1,0 +1,21 @@
+﻿<widget>
+  <widgetType>template</widgetType>
+  <widgetClass>tooltwist.wbd.MustachePageWidget</widgetClass>
+  <linkedWidget>TDDProject_widgets.tddPage</linkedWidget>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>TDD Demo Page Widget</label>
+  <description>Create a new TDD Demo page that uses the Mustache template language. See http://mustache.github.io for details.</description>
+  <cell>
+	<widget>
+	  <widgetClass>tooltwist.wbd.GridWidget</widgetClass>
+	  <idWithinRootWidget>1</idWithinRootWidget>
+	  <linkedWidget>toolbox.grid</linkedWidget>
+	  <cols>1</cols>
+	  <rows>1</rows>
+	  <width></width>
+	  <height></height>
+	  <align>center</align>
+	  <valign>top</valign>
+	</widget>
+  </cell>
+</widget>

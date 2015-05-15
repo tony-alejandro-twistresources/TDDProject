@@ -1,0 +1,13 @@
+﻿<widget>
+  <widgetType>silent</widgetType>
+  <widgetClass>tooltwist.wbd.MustachePageWidget</widgetClass>
+  <editableSnippet>
+    <name>template.mustache</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>input.json</name>
+  </editableSnippet>
+  <editableSnippet>
+    <name>conf.xml</name>
+  </editableSnippet>
+</widget>

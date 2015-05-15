@@ -1,0 +1,21 @@
+
+{
+	"scopes": {
+		"events": [
+			{
+				"event": "OOP Brownbag",
+				"averageRating": 2.5,
+				"comments": [
+					{
+						"rating":1,
+						"comment": "Not good."
+					},
+					{
+						"rating": 5,
+						"comment": "Loved it!"
+					}
+				]
+			}
+		]
+	}
+}

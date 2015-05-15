@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>com.tooltwist.tddproject.requesthandler.RatingRequestHandler</class>
+	<description>Rating Widget Request Handler</description>
+</requestHandler>
